@@ -16,3 +16,8 @@ This lab outlines the process of configuring a Cisco router using Packet Tracer.
 
 -Windows 11 Pro
 
+<h2>Goals For Lab</h2>
+
+<p>
+  <img src
+</p>
