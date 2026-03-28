@@ -7,3 +7,12 @@ This lab outlines the process of configuring a Cisco router using Packet Tracer.
 
 <br />
 
+<h2>Enviroments and Technologies Used</h2>
+
+-Cisco Packet Tracer
+-Labs default configuration made by JeremyIT
+
+<h2>Operation System Used</h2>
+
+-Windows 11 Pro
+
